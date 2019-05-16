@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/.vscode
+/models/__pycache__
+/options/__pycache__
+/datasets/font2hand
